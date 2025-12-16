@@ -1,4 +1,4 @@
-# Student Management System (Java)
+# Student Management System (Java) 
 
 ## Description
 A console-based Java application that manages student records using Object-Oriented Programming principles.  
